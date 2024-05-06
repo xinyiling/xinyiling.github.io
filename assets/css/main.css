@@ -1645,14 +1645,6 @@ ul.timeline li::before {
     content: ""
 }
 
-.fa-twitter::before {
-    content: ""
-}
-
-.fa-linkedin::before {
-    content: ""
-}
-
 .fa-location-dot::before {
     content: ""
 }
