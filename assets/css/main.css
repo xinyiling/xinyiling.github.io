@@ -474,7 +474,7 @@ ul.task-list input[type=checkbox] {
 }
 
 .social .contact-icons {
-    font-size: 4rem
+    font-size: 3rem
 }
 
 .social .contact-icons a i::before {
@@ -1689,10 +1689,6 @@ ul.timeline li::before {
     font-weight: 400;
     font-display: block;
     src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.ttf") format("truetype")
-}
-
-.fa-brands {
-    font-weight: bold
 }
 
 /*!
