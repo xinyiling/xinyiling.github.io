@@ -1645,6 +1645,18 @@ ul.timeline li::before {
     content: ""
 }
 
+.fa-linkedin:before {
+    content: "\f08c"; 
+}
+
+.fa-linkedin-in:before {
+    content: "\f0e1"; 
+}
+
+.fa-twitter:before {
+    content: "\f099"; 
+}
+
 .fa-location-dot::before {
     content: ""
 }
