@@ -1645,18 +1645,6 @@ ul.timeline li::before {
     content: ""
 }
 
-.fa-linkedin:before {
-    content: "\f08c"; 
-}
-
-.fa-linkedin-in:before {
-    content: "\f0e1"; 
-}
-
-.fa-twitter:before {
-    content: "\f099"; 
-}
-
 .fa-location-dot::before {
     content: ""
 }
@@ -1701,6 +1689,10 @@ ul.timeline li::before {
     font-weight: 400;
     font-display: block;
     src: url("../webfonts/fa-brands-400.woff2") format("woff2"), url("../webfonts/fa-brands-400.ttf") format("truetype")
+}
+
+.fa-brands {
+    font-weight: bold
 }
 
 /*!
